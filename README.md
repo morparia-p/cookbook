@@ -3,6 +3,7 @@ Recipes to your preference using claude AI
 # React + Vite
 Access my app here
 https://yum-recipes-five.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
